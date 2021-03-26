@@ -44,9 +44,9 @@ To participate in this project, please review the following guidelines:
     
 
 ## Team Members
+* <a href="https://github.com/madehopemorr" target="_blank">Madeline Morris</a>
 * <a href="https://github.com/uyennguyen30696" target="_blank">Uyen Nguyen</a>
 * <a href="https://github.com/Rudy-Menjivar" target="_blank">Rudy Menjivar</a>
-* <a href="https://github.com/madehopemorr" target="_blank">Madeline Morris</a>
 * <a href="https://github.com/gstinsonjr42" target="_blank">Greg Stinson</a>
 * <a href="https://github.com/carly-jm" target="_blank">Carly McVay</a>
 
